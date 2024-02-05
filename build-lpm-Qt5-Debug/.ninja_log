@@ -1,0 +1,14 @@
+# ninja log v5
+1565	1755	1707148850366480460	lpm	92aace246c102fe0
+92	1565	1707148850178479018	CMakeFiles/lpm.dir/main.cpp.o	7f202189f9880314
+92	119	1707148848734467931	CMakeFiles/lpm.dir/lpm_autogen/mocs_compilation.cpp.o	3cd4b80b6afbf1d9
+54	92	1707148848706467715	/home/admin/lcp.net/lpm/lpm/lpm_en_US.ts	3098512fe95a1328
+15	54	1707148848662467378	/home/admin/lcp.net/lpm/build-lpm-Qt5-Debug/lpm_autogen/mocs_compilation.cpp	d8061775f0cec5fa
+15	54	1707148848662467378	lpm_autogen/mocs_compilation.cpp	d8061775f0cec5fa
+15	54	1707148848662467378	lpm_autogen/timestamp	d8061775f0cec5fa
+18	69	1707156503245552675	build.ninja	47c7c042d470fec1
+15	54	1707148848662467378	/home/admin/lcp.net/lpm/build-lpm-Qt5-Debug/lpm_autogen/timestamp	d8061775f0cec5fa
+6	46	1707156503161552045	/home/admin/lcp.net/lpm/build-lpm-Qt5-Debug/CMakeFiles/cmake.verify_globs	45760aa96a544a10
+46	129	1707156503245552675	build.ninja	47c7c042d470fec1
+0	13	0	/home/admin/lcp.net/lpm/build-lpm-Qt5-Debug/CMakeFiles/cmake.verify_globs	45760aa96a544a10
+56	121	1707156503373553635	/home/admin/lcp.net/lpm/lpm/lpm_en_US.ts	3098512fe95a1328

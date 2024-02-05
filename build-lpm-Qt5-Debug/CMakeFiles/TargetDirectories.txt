@@ -1,0 +1,9 @@
+/home/admin/lcp.net/lpm/build-lpm-Qt5-Debug/CMakeFiles/lpm.dir
+/home/admin/lcp.net/lpm/build-lpm-Qt5-Debug/CMakeFiles/edit_cache.dir
+/home/admin/lcp.net/lpm/build-lpm-Qt5-Debug/CMakeFiles/rebuild_cache.dir
+/home/admin/lcp.net/lpm/build-lpm-Qt5-Debug/CMakeFiles/list_install_components.dir
+/home/admin/lcp.net/lpm/build-lpm-Qt5-Debug/CMakeFiles/install.dir
+/home/admin/lcp.net/lpm/build-lpm-Qt5-Debug/CMakeFiles/install/local.dir
+/home/admin/lcp.net/lpm/build-lpm-Qt5-Debug/CMakeFiles/install/strip.dir
+/home/admin/lcp.net/lpm/build-lpm-Qt5-Debug/CMakeFiles/lpm_autogen_timestamp_deps.dir
+/home/admin/lcp.net/lpm/build-lpm-Qt5-Debug/CMakeFiles/lpm_autogen.dir

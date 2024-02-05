@@ -1,0 +1,34 @@
+lpm_autogen/timestamp: \
+	/app/share/qtcreator/package-manager/auto-setup.cmake \
+	/home/admin/lcp.net/lpm/build-lpm-Qt5-Debug/CMakeFiles/3.27.6/CMakeCXXCompiler.cmake \
+	/home/admin/lcp.net/lpm/build-lpm-Qt5-Debug/CMakeFiles/3.27.6/CMakeSystem.cmake \
+	/home/admin/lcp.net/lpm/lpm/CMakeLists.txt \
+	/home/admin/lcp.net/lpm/lpm/main.cpp \
+	/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake \
+	/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake \
+	/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake \
+	/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake \
+	/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtras.cmake \
+	/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake \
+	/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake \
+	/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreMacros.cmake \
+	/usr/lib/x86_64-linux-gnu/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake \
+	/usr/lib/x86_64-linux-gnu/cmake/Qt5LinguistTools/Qt5LinguistToolsConfigVersion.cmake \
+	/usr/lib/x86_64-linux-gnu/cmake/Qt5LinguistTools/Qt5LinguistToolsMacros.cmake \
+	/usr/share/cmake-3.27/Modules/CMakeCXXInformation.cmake \
+	/usr/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake \
+	/usr/share/cmake-3.27/Modules/CMakeGenericSystem.cmake \
+	/usr/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake \
+	/usr/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake \
+	/usr/share/cmake-3.27/Modules/CMakeParseArguments.cmake \
+	/usr/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake \
+	/usr/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake \
+	/usr/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
+	/usr/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake \
+	/usr/share/cmake-3.27/Modules/Compiler/GNU.cmake \
+	/usr/share/cmake-3.27/Modules/Platform/Linux-GNU-CXX.cmake \
+	/usr/share/cmake-3.27/Modules/Platform/Linux-GNU.cmake \
+	/usr/share/cmake-3.27/Modules/Platform/Linux-Initialize.cmake \
+	/usr/share/cmake-3.27/Modules/Platform/Linux.cmake \
+	/usr/share/cmake-3.27/Modules/Platform/UnixPaths.cmake \
+	/usr/bin/cmake
